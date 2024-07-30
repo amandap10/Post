@@ -1,3 +1,6 @@
 .post {
-
+    background-color: var(--gray-800);
+    border-radius: 8px;
+    padding: 2.5rem;
 }
+
